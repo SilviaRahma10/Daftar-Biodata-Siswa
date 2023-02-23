@@ -20,3 +20,10 @@
    Agama  : Islam
    TTL    : Samarinda, 02 Juni 2003
    Alamat : Jln. Bantuas RT.01 No.18
+   
+    3. nama   : adisty
+   NIM    : H2020000002
+   JK     : Perempuan
+   Agama  : Islam
+   TTL    : Samarinda, 02 Juni 2003
+   Alamat : Jln. Bantuas RT.01 No.18
